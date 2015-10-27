@@ -1,2 +1,4 @@
 = Git In Practice
 The hotly anticipated sequel to Git Through Praxis.
+
+Now I need to add an opening joke.
